@@ -4,7 +4,7 @@ require('./List.less');
 
 import LazyLoadingImage from '../../components/LazyLoadingImage/LazyLoadingImage.jsx';
 
-
+ 
 
 export default class List extends Component {
 	constructor(props) {

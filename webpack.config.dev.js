@@ -74,7 +74,7 @@ module.exports = {
         new webpack.NoEmitOnErrorsPlugin()
     ],
     devServer: {
-        port: 9999
+        port: 9899
     }
 }
 
