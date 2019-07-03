@@ -10,7 +10,7 @@ export default class Nav extends Component {
 				<a href="#/" className="active">link index</a>
 				<a href="#/list">link list</a>
 				<a href="#/counter">link Counter</a>
-				<a href="#/lazy-loading-image-demo">link lazy-loading-image-demo</a>
+				{/*<a href="#/lazy-loading-image-demo">link lazy-loading-image-demo</a>*/}
 			</div>
 		)
 	}
