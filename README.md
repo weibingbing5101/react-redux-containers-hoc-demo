@@ -1,5 +1,6 @@
 ## react+redux+containers+hoc demo
 
+## 这是一个react图片懒加载的组件  书写于17年7月
 
 ### 文件目录
 * components/
